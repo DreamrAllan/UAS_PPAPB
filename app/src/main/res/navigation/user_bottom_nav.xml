@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/userHomeFragment"
-        android:name="com.example.uasppapbnajwan.UserHomeFragment"
+        android:name="com.example.uasppapballan.UserHomeFragment"
         android:label="fragment_user_home"
         tools:layout="@layout/fragment_user_home" />
     <fragment
         android:id="@+id/userFavoritesFragment"
-        android:name="com.example.uasppapbnajwan.UserFavoritesFragment"
+        android:name="com.example.uasppapballan.UserFavoritesFragment"
         android:label="fragment_user_favorites"
         tools:layout="@layout/fragment_user_favorites" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.example.uasppapbnajwan.ProfileFragment"
+        android:name="com.example.uasppapballan.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
 </navigation>

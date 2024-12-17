@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.uasppapbnajwan"
+    namespace = "com.example.uasppapballan"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.uasppapbnajwan"
+        applicationId = "com.example.uasppapballan"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

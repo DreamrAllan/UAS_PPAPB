@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "UASPPAPBNajwan"
+rootProject.name = "UASPPAPBAllan"
 include(":app")
  
